@@ -230,6 +230,7 @@ int main()
 
 
 
+/*
 //сят╙
 class Point;
 
@@ -336,3 +337,4 @@ int main()
 	system("pause");
 	return 0;
 }
+*/
